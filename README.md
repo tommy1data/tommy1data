@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🛡️ [Vlad / Your Name]'s Cybersecurity Profile
+# 🛡️ Vlad's Cybersecurity Profile
   
 ### Cybersecurity Student at Lynn University | Problem Solver
   
